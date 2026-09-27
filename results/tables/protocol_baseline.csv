@@ -1,0 +1,6 @@
+method,mean_diff,max_diff,units,units_over_0_05
+PatchCore,0.0,0.0,45,0
+PaDiM,0.0,0.0,45,0
+ReverseDistillation,0.0006,0.0076,45,0
+EfficientAD,0.0077,0.0397,45,0
+GANomaly,0.0841,0.6458,45,28

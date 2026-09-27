@@ -1,0 +1,20 @@
+# pip install -r requirements.txt          (Python 3.11)
+# Versions are pinned to the environment the results were produced in. The
+# "+cu126" pins force the CUDA build of torch; without them pip silently
+# installs a CPU-only one.
+
+--extra-index-url https://download.pytorch.org/whl/cu126
+
+torch==2.7.1+cu126
+torchvision==0.22.1+cu126
+
+anomalib==2.5.0
+lightning==2.6.5
+torchmetrics==1.9.0
+
+numpy==2.4.4
+pandas==3.0.3
+scipy==1.17.1
+scikit-learn==1.8.0
+matplotlib==3.10.9
+pillow==12.2.0

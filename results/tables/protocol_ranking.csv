@@ -1,0 +1,6 @@
+method,native,input,rank_native,rank_input,rank_differs
+GANomaly,-0.0023,0.0015,1,1,False
+PaDiM,-0.137,-0.1963,3,2,True
+PatchCore,-0.1306,-0.2018,2,3,True
+ReverseDistillation,-0.1477,-0.2222,4,4,False
+EfficientAD,-0.2384,-0.3143,5,5,False

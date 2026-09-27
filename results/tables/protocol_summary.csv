@@ -1,0 +1,8 @@
+perturbation,native,input,diff,scale_invariant
+gaussian,-0.186,-0.447,-0.261,False
+salt_pepper,-0.225,-0.412,-0.187,False
+contrast,-0.131,-0.151,-0.019,True
+rotation,-0.411,-0.425,-0.015,True
+brightness,-0.157,-0.167,-0.01,True
+saturation,-0.065,-0.071,-0.006,True
+translation,-0.278,-0.273,0.005,True

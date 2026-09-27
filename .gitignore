@@ -1,0 +1,7 @@
+__pycache__/
+dataset/
+datasets/
+checkpoints/
+runs/
+logs/
+results/*_quick.csv

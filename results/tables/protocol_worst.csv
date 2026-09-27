@@ -1,0 +1,6 @@
+,native,input,differs
+EfficientAD,rotation,gaussian,True
+GANomaly,rotation,saturation,True
+PaDiM,rotation,gaussian / rotation,True
+PatchCore,rotation,gaussian,True
+ReverseDistillation,rotation,gaussian,True
